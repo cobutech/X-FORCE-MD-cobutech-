@@ -20,40 +20,40 @@
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value": "yes",
-      "required": false
+      "required": true 
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
       "value": "yes",
-      "required": false
+      "required": true 
     },
     "PM_PERMIT": {
       "description": "Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value": "no",
-      "required": false
+      "required": true 
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
       "value": "X-FORCE-MD ",
-      "required": false
+      "required": true 
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
       "value": "https://telegra.ph/file/995832fbbb97ba4f7a7c9.jpg",
-      "required": false
+      "required": true 
     },
     "PUBLIC_MODE": {
       "description": "type yes to put your bot on public mode or no to put it on private mod",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "HEROKU_APY_KEY": {
       "description": "insert your heroku api-key (this must appear)",
-      "required": false
+      "required": true 
     },
     "HEROKU_APP_NAME": {
       "description": "insert your heroku APP NAME (this must appear",
-      "required": false
+      "required": true 
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
@@ -61,18 +61,18 @@
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "ÇÆLVÏÑË ØBÜ-M___TECH",
-      "required": false,
-      "value": "Djalega++"
+      "description": "Don't change the name of the developer since it's not you who developed the bot",
+      "required": true,
+      "value": "ÇÆLVÏÑË ØBÜ-M___TECH(CØBÜ-TËCH)"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-      "required": false,
+      "required": true,
       "value": "254796281776"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
-      "required": false,
+      "required": true,
       "value": "3"
     },
     "STARTING_BOT_MESSAGE": {
@@ -82,22 +82,22 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-      "value": "",
-      "required": false
+      "value": "3",
+      "required": true 
     },
     "PM_CHATBOT": {
       "description": "Put yes if you want the bot to automatically respond to messages in private",
-      "required": false,
+      "required": true,
       "value": "no"
     },
     "ANTI_VIEW_ONCE": {
       "description": "Put yes if you want to receive in pm all view once content",
-      "required": false,
+      "required": true,
       "value": "no"
     },
       "ANTI_COMMAND_SPAM" : {
         "description":"active a cooldown of 10sec to every-user after a command to avoid spamming unless owner and mods",
-        "required":false,
+        "required": true,
         "value" :"no"
       }
   },
