@@ -1,6 +1,6 @@
-*****
-<p align="center">  
- <a href="https://github.com/calvineonyango/MORTAL-KOMBAT-MD"><img title="GËTMØRTÄL KØMBÄT" src="https://img.shields.io/badge/MØRTÄL KØMBÄT VËSÏØN 1️⃣-h?color=darkred&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
+****
+****
+****
 
 #   <p align="center">  *X-FØRCË-MD {`BÜG BØT`}*
 ****
@@ -51,62 +51,7 @@
    * *during deployment on heroku do not change anything from the dashboard to avoid your heroku account being ` suspended`*
              
 *****
-   # *DËVËLØPËR*
 
- * *This bot was developed by*
-     - *` ÇÆLVÏÑË ØBÜ-MD___TECH`*
-       ***
- * *To connect with me*
-
-     * *you can reach me*
-
-          *  *on👇*
-
-          -  <a href="https://wa.me/254796281776"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-darkgreen?style=for-the-badge&logo=WhatsApp"></a>
-     
-     * *`Ør`*
-         * *on 👇*
-  
-         - <a href="https://t.me/obu254"><img title="Author" src="https://img.shields.io/badge/TELEGRAM-darkblue?style=for-the-badge&logo=Telegram"></a>
- 
-*****
-   # *SÜRPØRT* 
-   *(Joine CØBÜ___TËCH)*
-
-   * For `support` and `daily updates` bout the bot you can either join my
-    
-     * *`WhatsApp bot channel 👇`*
-    
-       * <a href="https://whatsapp.com/channel/0029Vadx3PxJ3juvWsDlrN11"><img title="Author" src="https://img.shields.io/badge/Whastapp bot channel-darkgreen?style=for-the-badge&logo=WhatsApp"></a>
-            
-     * *`ØR`*
-   * *`WhatsApp bot group 👇`*
-          
-   * <a href="https://chat.whatsapp.com/GoVVE2PJW9kGu7RAmlgfqQ"><img title="Author" src="https://img.shields.io/badge/Whastapp bot Group-darkgreen?style=for-the-badge&logo=WhatsApp"></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-  * As well you can join my on
-      * *`Telegran bot group 👇`*
-
-       * <a href="https://t.me/+g2w2s4YAf1BiN2Q8"><img title="Author" src="https://img.shields.io/badge/Telegram bot group-darkblue?style=for-the-badge&logo=Telegram"></a>
-
-     * *`ØR`*
- * *`Telegram bot channel👇`*
-
-      * <a href="https://t.me/+-B6ymywjkJI5YmI8"><img title="Author" src="https://img.shields.io/badge/Telegram bot channel-darkblue?style=for-the-badge&logo=Telegram"></a>
-      
-****
-  # *FØLØ MË*
-* *If you would like to know more about my projecs, you're allowed to follow me on*
-    * *Facebook page*  
-      * <a href="https://www.facebook.com/profile.php?id=100089479186475"><img title="Author" src="https://img.shields.io/badge/-darkblue?style=for-the-badge&logo=facebook"></a>
-    * *Twitter*
-        * <a href="https://www.twitter.com/CalvinCa5564"><img title="Author" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X"></a> 
-    * *YouTube*
-        * <a href="https://www.youtube.com/@calvineobumdtech"><img title="Author" src="https://img.shields.io/badge/-red?style=for-the-badge&logo=YouTube"></a>    
-    * *Instagram*
-       * <a href="https://instagram.com/caelvineobumd"><img title="Author" src="https://img.shields.io/badge/-white?style=for-the-badge&logo=Instagram"></a> 
 ****
   # *NB ⚠️⚠️⚠️*
 * *`X-FØCË-MD`* is made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
