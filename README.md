@@ -1,4 +1,4 @@
-****
+ni****
 ****
 ****
 
@@ -36,8 +36,17 @@
    * *For you to deploy the bot*
      * *1 You must get a setion id by either*
        * *(1) getting a `pairing code`*
+      
+       * <br>
+<p align="center"><a href="https://session-1bfac6cba929.herokuapp.com/you">
+ <img src="https://img.shields.io/badge/session%20id%20-red?style=for-the-badge&logo=github" width="180" height="27"/></a></p>
          * *ØR*
        * *(2) `scanning the QR`*
+      * <br>
+<p align="center"><a href="https://session-1bfac6cba929.herokuapp.com/you">
+ <img src="https://img.shields.io/badge/session%20id%20-blue?style=for-the-badge&logo=github" width="180" height="27"/></a></p>
+
+       
   * *After obtaining your setion id,go to your WhatsApp account and click on the Three dots from the `uper right hand side` and paste it there*
     * *2 you must have an `heriku account`*
        * *(1) If you don't have` create one` from here 👇*
